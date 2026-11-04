@@ -1,8 +1,9 @@
 # Hi, I'm Khairul Amin 👋
 
-**Web developer** from Malaysia, with a background in Computer Science (FSKTM, UTHM). I build clean, working websites and web apps, from simple landing pages to database-backed systems with login and user management.
+**Developer & IT practitioner** from Malaysia, with a background in Computer Science (FSKTM, UTHM). I work across **web development** and **network monitoring**, from building websites and database-backed web apps to keeping an eye on network health and uptime.
 
 ### 💼 What I can do for you
+- **Network monitoring:** setting up monitoring for network devices and services, tracking uptime, and spotting problems early
 - **Business & landing websites:** responsive pages that work on phone, tablet and desktop
 - **Web apps with a database:** registration, login, dashboards and CRUD admin pages (PHP + MySQL)
 - **Interactive front-ends:** JavaScript and jQuery features, forms with validation, dynamic content
