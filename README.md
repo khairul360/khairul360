@@ -1,0 +1,31 @@
+# Hi, I'm Khairul Amin 👋
+
+**Web developer** from Malaysia, with a background in Computer Science (FSKTM, UTHM). I build clean, working websites and web apps, from simple landing pages to database-backed systems with login and user management.
+
+### 💼 What I can do for you
+- **Business & landing websites:** responsive pages that work on phone, tablet and desktop
+- **Web apps with a database:** registration, login, dashboards and CRUD admin pages (PHP + MySQL)
+- **Interactive front-ends:** JavaScript and jQuery features, forms with validation, dynamic content
+- **E-commerce storefronts:** React / Gatsby based shop front-ends
+
+### 🛠️ Tech stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 📂 Featured work
+| Project | What it shows |
+|---------|---------------|
+| [PHP & MySQL user management](https://github.com/khairul360/lab5) | Registration, secure login (bcrypt + sessions), user list, update and delete, built with prepared statements |
+| [JSON & jQuery DOM operations](https://github.com/khairul360/LAB4B) | Working with JSON data and dynamic page updates with jQuery |
+| [JavaScript DOM basics](https://github.com/khairul360/lab4) | Events, input validation and dynamically generated content |
+| [Gatsby e-commerce theme](https://github.com/khairul360/gatsby-ecommerce-theme) | React/Gatsby storefront setup based on Matter Design's theme |
+
+### 🤝 Work with me
+I'm open to freelance and project work. Feel free to reach out about your website or web app.
