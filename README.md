@@ -23,6 +23,7 @@
 ### 📂 Featured work
 | Project | What it shows |
 |---------|---------------|
+| [StealthDoc (Final Year Project)](https://github.com/khairul360/stealthdoc) | Digital-forensics research: content-based (magic-number) file detection, USB HID with ATtiny85, and a Raspberry Pi collection platform. BSc Information Security thesis. |
 | [PHP & MySQL user management](https://github.com/khairul360/lab5) | Registration, secure login (bcrypt + sessions), user list, update and delete, built with prepared statements |
 | [JSON & jQuery DOM operations](https://github.com/khairul360/LAB4B) | Working with JSON data and dynamic page updates with jQuery |
 | [JavaScript DOM basics](https://github.com/khairul360/lab4) | Events, input validation and dynamically generated content |
