@@ -24,9 +24,8 @@
 | Project | What it shows |
 |---------|---------------|
 | [StealthDoc (Final Year Project)](https://github.com/khairul360/stealthdoc) | Digital-forensics research: content-based (magic-number) file detection, USB HID with ATtiny85, and a Raspberry Pi collection platform. BSc Information Security thesis. |
-| [PHP & MySQL user management](https://github.com/khairul360/lab5) | Registration, secure login (bcrypt + sessions), user list, update and delete, built with prepared statements |
-| [JSON & jQuery DOM operations](https://github.com/khairul360/LAB4B) | Working with JSON data and dynamic page updates with jQuery |
-| [JavaScript DOM basics](https://github.com/khairul360/lab4) | Events, input validation and dynamically generated content |
+| [Network / DNS monitor](https://github.com/khairul360/network-monitor) | Detects DGA domains, DNS tunneling and query spikes (mapped to MITRE ATT&CK), with a live Streamlit dashboard. Python + Scapy. |
+| [Web programming labs](https://github.com/khairul360/web-programming-labs) | University coursework in one place: JavaScript DOM, JSON & jQuery, and a PHP/MySQL user-management app with secure login and CRUD. |
 | [Gatsby e-commerce theme](https://github.com/khairul360/gatsby-ecommerce-theme) | React/Gatsby storefront setup based on Matter Design's theme |
 
 ### 🤝 Work with me
